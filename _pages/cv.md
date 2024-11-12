@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+[**Download Full CV (PDF)**](/files/CV_YuLiang.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Atmosphere, Ocean, and Climate Dynamics, Yale University, December 2022
+* B.S. in Atmospheric Science, Peking University, July 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
+* Jan 2023 - present: postdoc scholar
+  * Scripps Institution of Oceanography, UC San Diego
+  
+<!--
+#* Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+#* Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -62,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
